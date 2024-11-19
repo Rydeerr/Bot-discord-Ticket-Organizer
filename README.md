@@ -16,7 +16,6 @@
             <ul>
                 <li>Clone this repository to your local machine.</li>
                 <li>Ensure you have Python installed.</li>
-                <li>Install the required dependencies with <code>pip install -r requirements.txt</code>.</li>
                 <li>Replace <code>"YOUR_TOKEN"</code> in the code with your Discord bot token.</li>
             </ul>
         </li>
